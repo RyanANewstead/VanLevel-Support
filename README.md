@@ -18,6 +18,8 @@ Power on the sensor, select **VanLevel sensor** during first-run setup and keep 
 
 Left and right always mean the direction seen while standing inside the caravan and facing the front / jockey-wheel end. Each mounting preset specifies the screen direction and USB-C port direction to remove ambiguity. Changing an installed sensor’s orientation clears its saved level; calibrate it again afterwards.
 
+To protect a saved level, holding Button A only opens the sensor confirmation `CLEAR? B=YES A=NO`. Press Button B within eight seconds only if you deliberately want to remove the saved level. Press Button A, or wait, to keep it.
+
 ## Troubleshooting
 
 - If phone guidance remains paused, place the phone down and stop touching the caravan briefly.

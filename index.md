@@ -22,6 +22,8 @@ Choose **VanLevel sensor** during first-run setup, then open **Settings → Cara
 
 Left and right mean the direction seen while inside the caravan facing the front / jockey-wheel end. Each installation preset names the USB-C port direction and screen direction. Recalibrate after changing a sensor orientation.
 
+Holding Button A does not erase your saved level. It shows `CLEAR? B=YES A=NO`; press Button B within eight seconds only to deliberately clear it. Button A or timeout keeps the level.
+
 ## Safety
 
 Use suitable wheel chocks and supports, and follow the instructions for your caravan, jockey wheel, jack and levelling equipment. VanLevel provides measurement guidance; it does not replace safe parking, stabilisation or manufacturer requirements.
