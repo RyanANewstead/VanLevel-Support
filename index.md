@@ -24,6 +24,8 @@ Left and right mean the direction seen while inside the caravan facing the front
 
 Holding Button A does not erase your saved level. It shows `CLEAR? B=YES A=NO`; press Button B within eight seconds only to deliberately clear it. Button A or timeout keeps the level.
 
+To turn off an unplugged sensor, hold the separate physical power/reset button for about six seconds—not VanLevel Button A or B.
+
 ## Safety
 
 Use suitable wheel chocks and supports, and follow the instructions for your caravan, jockey wheel, jack and levelling equipment. VanLevel provides measurement guidance; it does not replace safe parking, stabilisation or manufacturer requirements.

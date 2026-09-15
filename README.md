@@ -20,6 +20,8 @@ Left and right always mean the direction seen while standing inside the caravan 
 
 To protect a saved level, holding Button A only opens the sensor confirmation `CLEAR? B=YES A=NO`. Press Button B within eight seconds only if you deliberately want to remove the saved level. Press Button A, or wait, to keep it.
 
+To turn off an unplugged M5StickC Plus, use its separate physical power/reset button (not VanLevel Button A or B) and hold it for about six seconds. When USB power is connected, that action puts the screen to sleep rather than fully powering it off.
+
 ## Troubleshooting
 
 - If phone guidance remains paused, place the phone down and stop touching the caravan briefly.
